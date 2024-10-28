@@ -1,3 +1,8 @@
+"""
+Author: Rose Mary 
+Date: 28-10-2024
+Discription:program that simulates a simple bank ATM system
+"""
 balance_amt=1000
 while True:
     print("\n1.\tCheck Balance")
